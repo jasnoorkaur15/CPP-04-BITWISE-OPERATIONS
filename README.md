@@ -1,4 +1,4 @@
-# 🧠 C++ Experiment 4: Bitwise Operators and Bit Manipulation
+# 🧠 C++ Experiment 4: Bitwise Operators 
 
 ## 🎯 Aim
 
